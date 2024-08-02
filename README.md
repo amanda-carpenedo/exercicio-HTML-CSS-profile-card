@@ -1,5 +1,3 @@
-# Exercício "Profile Card" com HTML e CSS
-
 # Exercício Profile Card com HTML e CSS
 [<img src="gif.gif" alt="gif da tela inicial do projeto Profile Card">]
 
